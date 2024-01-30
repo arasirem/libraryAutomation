@@ -1,0 +1,13 @@
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\bin\Debug\KÜTÜPHANE OTOMASYONU.exe.config
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\bin\Debug\KÜTÜPHANE OTOMASYONU.exe
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\bin\Debug\KÜTÜPHANE OTOMASYONU.pdb
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.csproj.SuggestedBindingRedirects.cache
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.Admin.resources
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.Form1.resources
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.Properties.Resources.resources
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE_OTOMASYONU.Uye.resources
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.csproj.GenerateResource.cache
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.exe
+C:\Users\tilve\OneDrive\Masaüstü\C#\KÜTÜPHANE OTOMASYONU\KÜTÜPHANE OTOMASYONU\obj\Debug\KÜTÜPHANE OTOMASYONU.pdb
